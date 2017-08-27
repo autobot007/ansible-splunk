@@ -10,3 +10,4 @@
 
 - name: setup to start at boot
   command: /opt/splunk/bin/splunk enable boot-start
+
